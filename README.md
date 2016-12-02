@@ -8,6 +8,7 @@ Run
 ````
 mvn clean test
 ````
+or from your IDE.
 
 Known Issues
 ------------
