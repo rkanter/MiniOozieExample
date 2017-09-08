@@ -6,11 +6,12 @@ Example of how to use MiniOozie, which is a JUnit-based test environment for Ooz
 Run
 ---
 ````
-mvn clean test [-Doozie.version=<version>]
+mvn clean test [-Doozie.version=<version>] [-Dhadoop.version=<version>]
 ````
 or from your IDE.
 
 The ``oozie.version`` can be any Oozie version (CDH or Apache).  It defaults to CDH 5.10.0.
+The ``hadoop.version`` can be any Hadoop version (CDH or Apache).  It defaults to CDH 5.10.0
 
 Known Issues
 ------------
