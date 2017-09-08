@@ -1,4 +1,4 @@
-package com.cloudera.rkanter.minioozieexample;
+package com.github.rkanter.minioozieexample;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.oozie.client.WorkflowJob;
