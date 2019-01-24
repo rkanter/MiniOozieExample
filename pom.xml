@@ -10,6 +10,8 @@
     <properties>
         <oozie.version>4.1.0-cdh5.10.0</oozie.version>
         <hadoop.version>2.6.0-cdh5.10.0</hadoop.version>
+        <maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>1.6</maven.compiler.target>
     </properties>
 
     <dependencies>
